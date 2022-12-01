@@ -1,0 +1,14 @@
+package constructors;
+class voidinsert{
+ 
+ 
+	
+}
+
+
+
+	
+
+	
+
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;classesDemo.Objectimplementation&apos; to &apos;cardemo&apos;&#x0D;&#x0A;- Original project: &apos;classesAndobject&apos;&#x0D;&#x0A;- Original element: &apos;classesDemo.Objectimplementation&apos;&#x0D;&#x0A;- Renamed element: &apos;classesDemo.cardemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Objectimplementation&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;classesDemo{Objectimplementation.java[Objectimplementation" matchStrategy="1" name="cardemo" qualified="false" references="true" similarDeclarations="false" stamp="1664176111241" textual="false" version="1.0"/>
+</session>
